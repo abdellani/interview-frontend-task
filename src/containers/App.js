@@ -6,7 +6,7 @@ import ScorePanel from '../components/scorePanel';
 class App extends React.Component {
   constructor() {
     super();
-    this.initialState={
+    this.initialState = {
       height: 10,
       width: 10,
       gameStarted: false,
@@ -15,11 +15,11 @@ class App extends React.Component {
       redSquarePosition: -1,
       movesCount: 0,
       greenSquaresCount: 0,
-    }
-    this.state = {...this.initialState};
+    };
+    this.state = { ...this.initialState };
   }
-  reset(){
-    this.setState(this.initialState)
+  reset() {
+    this.setState(this.initialState);
   }
   handleChange(e) {
     this.setState({
@@ -140,7 +140,7 @@ class App extends React.Component {
         return (
           <Board {...this.state} handleKeyDown={(e) => this.handleKeyDown(e)} />
         );
-      else return <ScorePanel reset={()=>this.reset()}{...this.state} />;
+      else return <ScorePanel reset={() => this.reset()} {...this.state} />;
     }
   }
 }
