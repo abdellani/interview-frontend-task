@@ -1,0 +1,44 @@
+#root {
+  height: 80vh;
+}
+
+form {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .from-group {
+    display: inline-flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+  }
+}
+
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  border: 5px solid black;
+  box-sizing: content-box;
+  margin: auto;
+
+  .slot {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 5px solid black;
+  }
+
+}
+.score-panel{
+  text-align: center;
+}
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
