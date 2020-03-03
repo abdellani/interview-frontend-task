@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/interview-frontend-task/static/css/main.f6bb8430.chunk.css",
-    "main.js": "/interview-frontend-task/static/js/main.9a7b165b.chunk.js",
-    "main.js.map": "/interview-frontend-task/static/js/main.9a7b165b.chunk.js.map",
+    "main.js": "/interview-frontend-task/static/js/main.0276a7d2.chunk.js",
+    "main.js.map": "/interview-frontend-task/static/js/main.0276a7d2.chunk.js.map",
     "runtime-main.js": "/interview-frontend-task/static/js/runtime-main.616d8c15.js",
     "runtime-main.js.map": "/interview-frontend-task/static/js/runtime-main.616d8c15.js.map",
     "static/js/2.21de55a5.chunk.js": "/interview-frontend-task/static/js/2.21de55a5.chunk.js",
     "static/js/2.21de55a5.chunk.js.map": "/interview-frontend-task/static/js/2.21de55a5.chunk.js.map",
     "index.html": "/interview-frontend-task/index.html",
-    "precache-manifest.684c36bb5b3c6057b8ec47d9bd1d7f66.js": "/interview-frontend-task/precache-manifest.684c36bb5b3c6057b8ec47d9bd1d7f66.js",
+    "precache-manifest.b858f0c0859318b3b8c85c5d9cc7a4fa.js": "/interview-frontend-task/precache-manifest.b858f0c0859318b3b8c85c5d9cc7a4fa.js",
     "service-worker.js": "/interview-frontend-task/service-worker.js",
     "static/css/main.f6bb8430.chunk.css.map": "/interview-frontend-task/static/css/main.f6bb8430.chunk.css.map",
     "static/js/2.21de55a5.chunk.js.LICENSE.txt": "/interview-frontend-task/static/js/2.21de55a5.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.616d8c15.js",
     "static/js/2.21de55a5.chunk.js",
     "static/css/main.f6bb8430.chunk.css",
-    "static/js/main.9a7b165b.chunk.js"
+    "static/js/main.0276a7d2.chunk.js"
   ]
 }
