@@ -37,7 +37,7 @@ class App extends React.Component {
     let { height, width } = this.state;
     let squares = new Array(height * width).fill(0);
     let greenSquaresCount = Math.ceil(Math.sqrt(height * width));
-    let redSquarePosition = Math.floor((height * width) / 2 + width / 2);
+    let redSquarePosition = Math.floor(height/2) * width + Math.floor(width/2);
     squares[redSquarePosition] = 2;
 
     for (let i = 0; i < greenSquaresCount; i++) {
