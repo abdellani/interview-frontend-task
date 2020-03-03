@@ -5,6 +5,7 @@ It's a React based clone of the game presented in the video https://vimeo.com/21
 
 A live demo is available in the following link : https://abdellani.dev/interview-frontend-task/
 
+![screenshot](https://raw.githubusercontent.com/abdellani/interview-frontend-task/development/screenshots/screenshot_1.png)
 # Installation
 You'll need to have node.js and yarn in your computer. 
 ```
